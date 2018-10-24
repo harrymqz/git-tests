@@ -21,6 +21,7 @@ https://guides.github.com/features/mastering-markdown/
 * Remove file from local repository: **git rm {file}**
 * Move/Rename file from local repository: **git mv {file}**
 * Check the status of your repository: **git status**
+* Check the repository branch log: **git log**
 * Commit the local changes: **git commit -am "{message for this commit}"**
 * Push the local repository to the remote repository (master branch): **git push origin master**
 * List branches: **git branch**
