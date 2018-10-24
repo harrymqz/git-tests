@@ -14,3 +14,9 @@ https://guides.github.com/features/mastering-markdown/
 * Issue: A problem, bug, new feature, we want/have to work with
 * Merge/Pull Request: Request of merging a branch/commit to another branch
 * Fork: Unlinked development path, which creates an independent repository
+
+## How to:
+* Clone a repository: git clone {url pointing to repository (.git)}
+    * Source: https://git-scm.com/docs/git-clone
+* Add file after create it: git add {file}
+    * Source: https://git-scm.com/docs/git-add
