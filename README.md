@@ -27,3 +27,6 @@ https://guides.github.com/features/mastering-markdown/
 * List branches: **git branch**
 * Create a new branch: **git branch {branch name}**
 * Switch to other branch: **git checkout {branch name}**
+* Merge branches:
+    1. Go to the destination branch: **git checkout {branch name}**
+    1. Merge the branch: **git merge {branch name you want to merge}**
