@@ -15,7 +15,7 @@ https://guides.github.com/features/mastering-markdown/
 * Merge/Pull Request: Request of merging a branch/commit to another branch
 * Fork: Unlinked development path, which creates an independent repository
 
-## Important : (All this data is from git page: https://git-scm.com/docs)
+## Important commands: (All this data is from git page: https://git-scm.com/docs)
 * Clone a repository: **git clone {url pointing to repository (.git)}**
 * Add file after create it: **git add {file}**
 * Remove file from local repository: **git rm {file}**
