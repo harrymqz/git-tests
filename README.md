@@ -20,3 +20,4 @@ https://guides.github.com/features/mastering-markdown/
     * Source: https://git-scm.com/docs/git-clone
 * Add file after create it: git add {file}
     * Source: https://git-scm.com/docs/git-add
+* Commit the local repository to the remote repository (master branch): git push origin master
