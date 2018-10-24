@@ -17,8 +17,6 @@ https://guides.github.com/features/mastering-markdown/
 
 ## How to: (All this data is from git page: https://git-scm.com/docs)
 * Clone a repository: **git clone {url pointing to repository (.git)}**
-    * Source: https://git-scm.com/docs/git-clone
 * Add file after create it: **git add {file}**
-    * Source: https://git-scm.com/docs/git-add
 * Commit the local changes: **git commit -am "{message for this commit}"**
 * Push the local repository to the remote repository (master branch): **git push origin master**
