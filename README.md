@@ -30,3 +30,5 @@ https://guides.github.com/features/mastering-markdown/
 * Merge branches:
     1. Go to the destination branch: **git checkout {branch name}**
     1. Merge the branch: **git merge {branch name you want to merge}**
+* Delete a branch: **git branch --delete {branch name}**
+* Delete a remote branch: **git push origin --delete {branch name}**
