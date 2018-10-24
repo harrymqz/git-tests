@@ -23,3 +23,6 @@ https://guides.github.com/features/mastering-markdown/
 * Check the status of your repository: **git status**
 * Commit the local changes: **git commit -am "{message for this commit}"**
 * Push the local repository to the remote repository (master branch): **git push origin master**
+* List branches: **git branch**
+* Create a new branch: **git branch {branch name}**
+* Switch to other branch: **git checkout {branch name}**
