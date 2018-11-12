@@ -32,3 +32,13 @@ https://guides.github.com/features/mastering-markdown/
     1. Merge the branch: **git merge {branch name you want to merge}**
 * Delete a branch: **git branch --delete {branch name}**
 * Delete a remote branch: **git push origin --delete {branch name}**
+
+## Remember your password instead type every time
+To get your Git client to remember your username and password, and avoid re-entering it every time you access your repository over HTTPS, you can issue the following command to your Git client:
+```
+git config --global credential.helper cache
+```
+If you wanted Git to remember it for longer, you can do so by specifying a --timeout=:
+```
+git config --global credential.helper "cache --timeout=3600"
+```
